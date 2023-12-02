@@ -84,3 +84,7 @@ There are four components of a Data Warehouse:
 
 * source1 - https://www.ibm.com/topics/data-warehouse "Data Warehouse by IBM"
 * source2 -  https://www.guru99.com/data-warehousing.html  "Guru99 - Data Warehousing Tutorial"
+<<<<<<< HEAD
+=======
+
+>>>>>>> 230acd326f8b07fcb06e043b2e343b6736d233ab
