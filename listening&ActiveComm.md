@@ -47,7 +47,7 @@ Ex: “I wish I could afford a new bike like yours, but unfortunately all my mon
 
 ---
 
-#### 8. How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)
+#### 8. How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life?
 
 I can make my communication more assertive by expressing my feelings and needs clearly and honestly while respecting the feelings of others as well. 
 Additionally, I have to be more aware of my body language as it can subconsciously play a major role in setting the tone of the conversation.
