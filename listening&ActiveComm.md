@@ -27,3 +27,30 @@ The main obstacles are I'm bit impatient, ie., the urge to talk before the speak
 I can improve my listening by being in the present situation and resisting my urge to respond.
 
 ---
+
+#### 5. When do you switch to Passive communication style in your day to day life?
+
+I switch to Passive communication when I want to avoid conflicts, and whenever I feel my opinions don't make any difference.
+
+---
+
+#### 6. When do you switch into Aggressive communication styles in your day to day life?
+
+I switch to Agressive communication when I disrespected and when I'm in anger.
+
+---
+
+#### 7. When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
+
+I switch into Passive Agressive communication when I want to make wistful comments.
+Ex: “I wish I could afford a new bike like yours, but unfortunately all my money goes to my student loans.”
+
+---
+
+#### 8. How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)
+
+I can make my communication more assertive by expressing my feelings and needs clearly and honestly while respecting the feelings of others as well. 
+Additionally, I have to be more aware of my body language as it can subconsciously play a major role in setting the tone of the conversation.
+
+
+
