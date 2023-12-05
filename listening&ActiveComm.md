@@ -16,6 +16,8 @@ In Fisher's model, key points of reflective listening are:
 - The importance of sincere interest during listening to allow the speaker to truly express themselves.
 - It involves genuinely understanding and expressing empathy towards the speaker.
 
+---
+
 #### 3. What are the obstacles in your listening process?
 
 The main obstacles are I'm bit impatient, ie., the urge to talk before the speaker finishes lead to interruptions and also my distracting mind caused me to miss many things.
