@@ -1,13 +1,13 @@
 # Grit and Growth Mindset 
 
-#### 1. Paraphrase (summarize) the video1 in a few (1 or 2) lines. Use your own words.
+#### 1. Paraphrase (summarize) the [video1](https://gitlab.com/bjbabu/life-skills-track/-/blob/main/grit-and-growth-mindset.md?ref_type=heads&plain=1) in a few (1 or 2) lines. Use your own words.
 
 The speaker Angela Duckworth emphasizes the importance of "grit" is passion and perseverance for long-term goals. Even though if we aware of grit or how we build grit, 
 the speaker suggests that instilling a growth mindset, the belief that learning abilities can improve with effort, is a promising approach.
 
 ---
 
-#### 2. Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
+#### 2. Paraphrase (summarize) the [video](https://www.youtube.com/watch?v=75GFzikmRY0) in a few (1 or 2) lines in your own words.
 
 This video is about Growth Mindset by Carol Dweck. In this video he compared between fixed and growth mindsets saying, the people with growth mindset developed their skills
 through effort, mistakes, by taking feedback as opportunity for learning and embracing challenges, while those withx fixed mindset tend to avoid all these challenges and consider
@@ -15,7 +15,7 @@ these efforts as useles.
 
 ---
 
-#### 3. What is the Internal Locus of Control? What is the key point in the video?
+#### 3. What is the Internal Locus of Control? What is the key point in the [video](https://www.youtube.com/watch?v=8ZhoeSaPF-k)?
 
 The internal locus of control is the belief that you have control over your life and that your actions and efforts influence the outcomes. 
 The key point in the video is that having an internal locus of control is essential for maintaining motivation.
