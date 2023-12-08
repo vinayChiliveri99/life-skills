@@ -54,6 +54,31 @@ The ideas help break the cycle of bad habits by making them less tempting or mor
 
 ---
 
+#### 8. Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
+
+I always wanted to stay consistent in solving DSA questions, In order to do that the following steps I'm going to incoperate.
+
+- Make the Cue Obvious: Setting a daily reminder and making a clear visible checklist on calender to maintain streak.
+- Make the Habit Attractive: I will join a online community to share my progress and discuss problems.
+- Make it Easy: I will start with simple DSA questions and gradually solve complex and also I will set specific time everyday to do this.
+- Make the Response Satisfying: I will start celebrating my small achievements each day. and also by tracking my improvements over time, creating a sense of accomplishment and motivation to continue.
+
+---
+
+#### 9. Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
+
+The only habit I want to eliminate is Social Media consumption. In order to achive this, I will use following:
+
+- Make the Cue Invisible: Uninstall the apps.
+- Make the Process Unattractive: Under parental controls set time limit to use the app.
+- Make it Hard: Remove automatic login and add 2-factor authentication to login, using my friends phone number.
+- Make the Response Unsatisfying: Reflecting the negative impact social media causes.
+
+--- 
+
+
+
+
 
 
 
