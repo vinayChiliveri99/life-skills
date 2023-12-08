@@ -1,7 +1,8 @@
 # Tiny Habits
 
-#### 1. In this video, what was the most interesting story or idea for you?
+#### 1. In this [video](https://www.youtube.com/watch?v=AdKUJxjn-R8), what was the most interesting story or idea for you?
 
+In this video by BJ Fogg, the interesting idea for me is when he explains the importance of habits that can significantly change our lives. He also elaborates on the formula he derived, B = MAP, which involves breaking down habits into achievable pieces and celebrating accomplishments, leading to increased motivation.
 
 ---
 
@@ -21,7 +22,7 @@ It is important to shine (celebrate) because it keeps you motivated and builds c
 
 ---
 
-#### 4. In this video, what was the most interesting story or idea for you?
+#### 4. In this [video](https://www.youtube.com/watch?v=mNeXuCYiE0U), what was the most interesting story or idea for you?
 
 The most interesting idea I found in this video is Jerry Seinfeld's Chain Method. This simple yet effective approach to **tracking progress and maintaining a streak** can reinforce positive habits.
 
