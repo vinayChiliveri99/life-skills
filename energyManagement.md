@@ -47,7 +47,7 @@ If we experience pure joy, laughter, an increased heart rate, heightened motivat
   
 ---
 
-#### Q7. What are some steps you can take to exercise more?
+#### 7. What are some steps you can take to exercise more?
 
  - Starting with easy ones.
  - Identifying the positive sides of exercise and enjoying it.
