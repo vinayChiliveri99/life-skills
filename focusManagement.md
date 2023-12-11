@@ -1,34 +1,36 @@
-## __Focus Management__
+# Focus Management
 
-#### Q1. What is Deep Work?
-It is described as focused, undistracted work on cognitively demanding tasks.
+#### 1. What is Deep Work?
+Deep work is the ability to focus without distraction on a cognitively demanding task. 
 
 ---
 
-#### Q2. According to author how to do deep work properly, in a few points?
- - Scheduling aside dedicated focus time to do work.
- - Setting boundaries and minimising distraction.
+#### 2. According to author how to do deep work properly, in a few points?
+ - Schedule your distraction periods.
  - Find regular times for deep work during your day.
- - Promoting better sleep and restoring your focus with a nightly shutdown ritual.
+ - Find a quiet place to work where you will not be interrupted.
+ - Have a daily shutdown ritual.
+ - Take breaks every 20-30 minutes to avoid burnout
 
 ---
 
-#### Q3. How can you implement the principles in your day to day life?
+#### 3. How can you implement the principles in your day to day life?
+
  - Setting clear goals.
  - Establishing a routine.
  - Minimizing Distractions.
  - Start with shorter deep work sessions and gradually extend them.
- - Consistency.
- - Having a evening shutdown ritual.
+ - Staying consistent.
 
 ---
 
-#### Q4. What are the dangers of social media, in brief?
+#### 4. What are the dangers of social media, in brief?
+
  - Social Media fragments attention and reduces concentration.
  - It can lead to loneliness and depression. 
- - It disrupts deep, concentrated work.
- - Designed for continuous use.
- - Causes us to compare our life to others leading to feelings of inadequacy.
+ - It creates anxiety.
+ - They are designed for continuous use.
+ - Leads to addiction.
 
 ---
 
