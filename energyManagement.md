@@ -18,35 +18,43 @@ If we experience pure joy, laughter, an increased heart rate, heightened motivat
 
 #### 4. Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
 
- - The video emphasizes the essential role of sleep for both the brain and the body.
- - Lack of sleep can have detrimental effects, including harming memory and learning, weakening the immune system, and impacting genetic activity.
- - It is advisable to maintain regular sleep patterns.
- - Creating a cool sleeping environment can contribute to better sleep quality.
-
+- Lack of sleep affects reproductive health.
+- Sleep is crucial for learning and memory storage.
+- Lack of sleep results in a reduction in the brain's ability to form new memories.
+- Deep sleep enhances the transfer of memories from short-term to long-term storage.
+- Lack of sleep weakens the immune system, increases stress, can lead to a shorter lifespan, and may result in health issues.
+- For better sleep, establish regular sleep patterns and maintain a cool bedroom temperature.
+   
 ---
 
 
 #### 5. What are some ideas that you can implement to sleep better?
 
-Maintaining regular sleeping patterns coupled with a cool and comfortable environmment for better quality of sleep. In addition to these, getting good sunlight, limiting the duration of naps, getting regular exercise, and a good diet can all help in improving our sleep.
+- Engaging in physical activity, such as a good workout, to promote tiredness and enhance the body's readiness for sleep.
+- Establish regular sleep patterns by going to bed and waking up at consistent times.
+- Maintain a cool bedroom temperature.
+- By avoiding phone one hour before bed, avoiding caffine and maintaining good diet.
 
 ---
 
 #### 6. Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
- - Exercise boosts mood and enhances attention.
- - It strengthens the brain.
- - Exercise improves memory.
- - It guards against cognitive decline.
- - Essential for lifelong brain health, protecting against diseases like dementia and Alzheimer's.
 
+- Exercise has a positive impact on the brain.
+- Boosts harmones like dopamine and serotonin, leading to improved mood.
+- Working out leads to improved mood and attention.
+- Regular exercise increases the volume of the hippocampus which is essential for long-term memory.
+- Exercise acts as a protective measure against neurodegenerative diseases.
+  
 ---
 
 #### Q7. What are some steps you can take to exercise more?
- - Set goals.
- - Schedule workouts.
- - Choose enjoyable activities.
- - Start small, then progress.
- - Track progress.
- - Reward yourself.
+
+ - Starting with easy ones.
+ - Identifying the positive sides of exercise and enjoying it.
+ - Setting goals.
+ - Scheduling workouts.
+ - Choosing enjoyable activities.
+ - Tracking progress.
+ - Rewarding myself.
 
 ---
