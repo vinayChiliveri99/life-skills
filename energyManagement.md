@@ -1,4 +1,4 @@
-## __Energy Management__
+# Energy Management
 
 #### 1. What are the activities you do that make you relax - Calm quadrant?
 Deep breathing, counting numbers, practicing meditation and mindfulness techniques and yoga are some of the activities that can help me to calm my mind and reduce stress. It's a great way to stay in the Calm quadrant.
